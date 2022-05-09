@@ -21,7 +21,8 @@ An application to write and save note with Express.js back end and will save and
 ## Usage
 - Application will allow user to be able to add note's title and description, Application will allow user to be able to save the notes and won't lose them even they refresh the page and Application will allow user to be delete notes
 
-
+## Screenshot:
+![](public/img/deploy-pic.png)
 
 
 ## Technologies Use
