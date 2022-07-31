@@ -49,7 +49,7 @@ h4.subtitle {
 }
 
 .note-title:read-only, .note-textarea:read-only {
-  color: #757575;
+  color: #870404;
 }
 
 .list-container .card {
@@ -71,6 +71,11 @@ h4.subtitle {
   border-top-left-radius: 0;
 }
 
+.list-item-title {
+  display: inline-block;
+  width: 75%;
+}
+
 .list-container i {
   font-size: 1.1rem;
   cursor: pointer;
@@ -81,9 +86,6 @@ h4.subtitle {
   border-right: none;
   padding: 20px;
   cursor: pointer;
-  font-family: 'Just Another Hand', cursive;
-  font-size: 24pt;
-  letter-spacing: 1pt;
 }
 
 .nav-bg {
@@ -91,5 +93,5 @@ h4.subtitle {
 }
 
 .container-bg {
-  background-color: #f4eeff;
+  background-color: #ebfac0;
 }
