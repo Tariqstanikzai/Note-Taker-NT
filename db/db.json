@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "title": "Gym",
+        "text": "Work Out",
+        "id": 1
+    },
+    {
+        "title": "Resubmit assignments",
+        "text": "resubmit remaind assigments",
+        "id": "813c6a37-f5f9-479d-9ead-4963619d86ea"
+    },
+  
+    {
+        "title": "Bed time",
+        "text": "at 11:30",
+        "id": "c0cbb39c-9883-4358-ac5d-9f6d93fcb958"
+    }
+]

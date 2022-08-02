@@ -1,21 +1,8 @@
-html, body {
+html,
+body {
   height: 100%;
   margin: 0;
   padding: 0;
-}
-
-h1, h2, h3, h4, h5 , h6 {
-  font-family: 'Just Another Hand', cursive;
-}
-
-h1.display-4 {
-  font-size: 60pt;
-  letter-spacing: 1.5pt;
-}
-
-h4.subtitle {
-  font-size: 35pt;
-  letter-spacing: 1pt;
 }
 
 .save-note {
@@ -29,7 +16,8 @@ h4.subtitle {
   cursor: pointer;
 }
 
-.note-textarea, .note-title {
+.note-textarea,
+.note-title {
   color: #000000;
   width: 100%;
   outline: none;
@@ -48,8 +36,9 @@ h4.subtitle {
   font-size: 3rem;
 }
 
-.note-title:read-only, .note-textarea:read-only {
-  color: #870404;
+.note-title:read-only,
+.note-textarea:read-only {
+  color: #757575;
 }
 
 .list-container .card {
@@ -86,12 +75,4 @@ h4.subtitle {
   border-right: none;
   padding: 20px;
   cursor: pointer;
-}
-
-.nav-bg {
-  background-color: #856c8b !important;
-}
-
-.container-bg {
-  background-color: #ebfac0;
 }
