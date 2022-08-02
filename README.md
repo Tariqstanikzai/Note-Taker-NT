@@ -5,7 +5,7 @@ An application to write and save note with Express.js back end and will save and
 
 ### Github : https://github.com/Tariqstanikzai/Note-Taker-NT
 
-### Deployed app in Heroku: https://note-taker-nt-app.herokuapp.com/notes
+### Deployed app in Heroku: https://note-taker-app-nt.herokuapp.com/notes
 
 
 
@@ -24,6 +24,7 @@ An application to write and save note with Express.js back end and will save and
 ## Screenshot:
 ![](public/img/code.png)
 ![](public/img/deploy.png)
+![](public/img/fdeploy.png)
 
 
 ## Technologies Use
